@@ -1,4 +1,4 @@
-# designPatterns
+## designPatterns
 
 1. Adapter
 
@@ -134,8 +134,8 @@ How do you construct complex objects cleanly?
 
 
 ⚠️ Patterns You Should Know of but Rarely Code
-    Flyweight
-    Memento
-    Prototype
-    Visitor
-    Chain of Responsibility (except middleware)
+    1. Flyweight
+    2. Memento
+    3. Prototype
+    4. Visitor
+    5. Chain of Responsibility (except middleware)
